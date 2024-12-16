@@ -1,0 +1,13 @@
+{
+  "name": "swap-clothes",
+  "version": "1.0.0",
+  "description": "an algorithm to make clothing swaps fair",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node main.js"
+  },
+  "author": "chiazo",
+  "license": "ISC"
+}
