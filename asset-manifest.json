@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/swap-clothes/static/css/main.0f8377f7.css",
+    "main.js": "/swap-clothes/static/js/main.3c7050d9.js",
+    "index.html": "/swap-clothes/index.html",
+    "main.0f8377f7.css.map": "/swap-clothes/static/css/main.0f8377f7.css.map",
+    "main.3c7050d9.js.map": "/swap-clothes/static/js/main.3c7050d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f8377f7.css",
+    "static/js/main.3c7050d9.js"
+  ]
+}
